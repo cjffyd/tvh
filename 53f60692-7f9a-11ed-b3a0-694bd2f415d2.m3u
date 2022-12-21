@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KBS1" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",KBS1
+http://10.10.10.65:8001/1:0:1:195:4:AD:4880000:0:0:0:
+#EXTINF:-1 tvg-id="KBS world main" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",KBS World Main
+http://10.10.10.65:8001/1:0:1:3:CD:0:46AB1A6:0:0:0:
+#EXTINF:-1 tvg-id="KBS World24" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",KBS World24
+http://10.10.10.65:8001/1:0:1:1:CD:0:46AB1A6:0:0:0:
+#EXTINF:-1 tvg-id="MBC" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",MBC_TV_Link_HD
+http://10.10.10.65:8001/1:0:1:1:1000:2000:46A0000:0:0:0:
+#EXTINF:-1 tvg-id="SBS" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",SBS HD HUB
+http://10.10.10.65:8001/1:0:1:1:1:FFFF:46A30E2:0:0:0:
+#EXTINF:-1 tvg-id="YTN" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",YTN
+http://10.10.10.65:8001/1:0:1:2:CD:0:46AB1A6:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",五年级
+http://10.10.10.65:8001/1:0:1:1F45:50:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",央视4K试验
+http://10.10.10.65:8001/1:0:1:E75:25:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="地方",CHC高清电影
+http://10.10.10.65:8001/1:0:93:BB9:1E:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="地方",CHC家庭影院高清
+http://10.10.10.65:8001/1:0:93:11FB:2E:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="地方",CHC动作电影高清
+http://10.10.10.65:8001/1:0:93:1133:2C:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视1套高清
+http://10.10.10.65:8001/1:0:93:A29:1A:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视2套高清
+http://10.10.10.65:8001/1:0:93:16A9:3A:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视3套高清
+http://10.10.10.65:8001/1:0:93:ED9:26:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视4套高清
+http://10.10.10.65:8001/1:0:93:1325:31:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",央视5套高清
+http://10.10.10.65:8001/1:0:93:EDA:26:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",央体赛事高清
+http://10.10.10.65:8001/1:0:93:515:D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",央视奥运高清
+http://10.10.10.65:8001/1:0:93:189D:3F:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视6套高清
+http://10.10.10.65:8001/1:0:93:D49:22:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视7套高清
+http://10.10.10.65:8001/1:0:93:16AA:3A:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视8套高清
+http://10.10.10.65:8001/1:0:93:EDB:26:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视9套高清
+http://10.10.10.65:8001/1:0:93:16AB:3A:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视10套高清
+http://10.10.10.65:8001/1:0:93:10CD:2B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视11套高清
+http://10.10.10.65:8001/1:0:93:1A2D:43:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视12套高清
+http://10.10.10.65:8001/1:0:93:12C3:30:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视13套高清
+http://10.10.10.65:8001/1:0:93:183A:3E:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视14套高清
+http://10.10.10.65:8001/1:0:93:10CE:2B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视15套高清
+http://10.10.10.65:8001/1:0:93:1A2E:43:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="央视",央视17套高清
+http://10.10.10.65:8001/1:0:93:1839:3E:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",上海教视高清
+http://10.10.10.65:8001/1:0:93:1196:2D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",东方卫视高清
+http://10.10.10.65:8001/1:0:81:5DD:F:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",OCN导视高清
+http://10.10.10.65:8001/1:0:93:106A:2A:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",五星体育高清
+http://10.10.10.65:8001/1:0:93:F3E:27:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",新闻综合高清
+http://10.10.10.65:8001/1:0:93:F3F:27:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",纪实人文高清
+http://10.10.10.65:8001/1:0:93:F3D:27:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="地方",求索纪录高清
+http://10.10.10.65:8001/1:0:93:19C9:42:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",生活时尚高清
+http://10.10.10.65:8001/1:0:93:FA3:28:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",东方影视高清
+http://10.10.10.65:8001/1:0:93:516:D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",风尚生活高清
+http://10.10.10.65:8001/1:0:93:1327:31:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",幸福娱乐高清
+http://10.10.10.65:8001/1:0:93:1647:39:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",都市高清
+http://10.10.10.65:8001/1:0:93:B56:1D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",都市剧场高清
+http://10.10.10.65:8001/1:0:93:FA1:28:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",法治天地高清
+http://10.10.10.65:8001/1:0:93:E12:24:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",外语频道高清
+http://10.10.10.65:8001/1:0:93:11F9:2E:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",游戏风云高清
+http://10.10.10.65:8001/1:0:93:1006:29:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",魅力足球高清
+http://10.10.10.65:8001/1:0:93:DB0:23:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="北京",北京冬奥纪实高清
+http://10.10.10.65:8001/1:0:93:125D:2F:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",乐游高清
+http://10.10.10.65:8001/1:0:93:AF2:1C:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",极速汽车高清
+http://10.10.10.65:8001/1:0:93:1195:2D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",茶高清
+http://10.10.10.65:8001/1:0:93:170E:3B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="地方",快乐垂钓高清
+http://10.10.10.65:8001/1:0:93:170F:3B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",劲爆体育高清
+http://10.10.10.65:8001/1:0:81:8FD:17:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",动漫秀场高清
+http://10.10.10.65:8001/1:0:93:FA2:28:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",欢笑剧场高清
+http://10.10.10.65:8001/1:0:93:A2A:1A:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",新视觉高清
+http://10.10.10.65:8001/1:0:93:A8E:1B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",陶瓷频道高清
+http://10.10.10.65:8001/1:0:93:1326:31:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",哈哈炫动高清
+http://10.10.10.65:8001/1:0:93:17D6:3D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",第一财经高清
+http://10.10.10.65:8001/1:0:93:1069:2A:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",金色学堂高清
+http://10.10.10.65:8001/1:0:93:CE6:21:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",湖南卫视高清
+http://10.10.10.65:8001/1:0:93:E11:24:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",浙江卫视高清
+http://10.10.10.65:8001/1:0:93:CE5:21:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",江苏卫视高清
+http://10.10.10.65:8001/1:0:93:B55:1D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",甘肃卫视高清
+http://10.10.10.65:8001/1:0:93:170D:3B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",云南卫视高清
+http://10.10.10.65:8001/1:0:93:183B:3E:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",吉林卫视高清
+http://10.10.10.65:8001/1:0:93:17D5:3D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",江西卫视高清
+http://10.10.10.65:8001/1:0:93:1645:39:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",北京卫视高清
+http://10.10.10.65:8001/1:0:93:A8D:1B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",深圳卫视高清
+http://10.10.10.65:8001/1:0:93:AF1:1C:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",东南卫视高清
+http://10.10.10.65:8001/1:0:93:1646:39:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",黑龙江卫视高清
+http://10.10.10.65:8001/1:0:93:DB1:23:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",广东卫视高清
+http://10.10.10.65:8001/1:0:93:D4A:22:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",陕西卫视高清
+http://10.10.10.65:8001/1:0:93:189F:3F:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",辽宁卫视高清
+http://10.10.10.65:8001/1:0:93:10CF:2B:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",天津卫视高清
+http://10.10.10.65:8001/1:0:93:1007:29:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",山东卫视高清
+http://10.10.10.65:8001/1:0:93:1131:2C:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",安徽卫视高清
+http://10.10.10.65:8001/1:0:93:1132:2C:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",河北卫视高清
+http://10.10.10.65:8001/1:0:93:189E:3F:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",四川卫视高清
+http://10.10.10.65:8001/1:0:93:125F:2F:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",聚鲨环球精选高清
+http://10.10.10.65:8001/1:0:93:1197:2D:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",东方购物高清
+http://10.10.10.65:8001/1:0:93:11FA:2E:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",东方购物二高清
+http://10.10.10.65:8001/1:0:93:12C1:30:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",央广购物高清
+http://10.10.10.65:8001/1:0:93:19CA:42:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",家有购物高清
+http://10.10.10.65:8001/1:0:93:19CB:42:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="卫视",东方卫视
+http://10.10.10.65:8001/1:0:1:65:1:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",上海教视
+http://10.10.10.65:8001/1:0:1:67:1:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",东方购物二
+http://10.10.10.65:8001/1:0:1:68:1:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",第一财经
+http://10.10.10.65:8001/1:0:2:71:1:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",Love Radio
+http://10.10.10.65:8001/1:0:2:70:1:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",都市
+http://10.10.10.65:8001/1:0:1:69:1:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",六年级
+http://10.10.10.65:8001/1:0:1:1F46:50:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="上海",幸福彩高清
+http://10.10.10.65:8001/1:0:93:1005:29:2:FFFF0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",Satio 최신인기가요 HOT 150
+http://10.10.10.65:8001/1:0:2:209:5:AD:4880000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",Satio 주간 인기성인가요 HOT 300
+http://10.10.10.65:8001/1:0:2:20A:5:AD:4880000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",Satio 1979년 종로 음악다방
+http://10.10.10.65:8001/1:0:2:20B:5:AD:4880000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.10.10.65/images/default_picon.png" group-title="未分类",Satio 엄마랑 EQ동요
+http://10.10.10.65:8001/1:0:2:20C:5:AD:4880000:0:0:0:
